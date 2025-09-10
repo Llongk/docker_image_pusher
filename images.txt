@@ -1,5 +1,2 @@
 nginx-1.26.1
-nginx-1.14.2
-nginx-1.16.1 
-nginx-1.18.0
 nginx-1.28.0
