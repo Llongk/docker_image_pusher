@@ -1,3 +1,1 @@
-
-
-swr.cn-north-1.myhuaweicloud.com/iivey/kvmwebcloud:v1
+grafana:9.5.2
