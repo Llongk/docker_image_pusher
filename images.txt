@@ -1,1 +1,1 @@
-grafana:9.5.2
+  google/cadvisor:latest
